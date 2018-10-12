@@ -1,26 +1,22 @@
 [
   {
+    "field": "partidoactual",
+    "label": "Partido al que representa:"
+  },
+  {
+    "field": "partidopostulante",
+    "label": "Partido postulante:"
+  },
+  {
+    "field": "distrito",
+    "label": "Distrito al que representa:"
+  },
+  {
     "field": "cargo",
     "label": "Cargo:"
   },
   {
-    "field": "institucion",
-    "label": "Institución:"
-  },
-  {
-    "field": "profesion",
-    "label": "Profesión:"
-  },
-  {
-    "field": "educacion",
-    "label": "Educación:"
-  },
-  {
-    "field": "fechaNacimiento",
+    "field": "nacimiento",
     "label": "Fecha de nacimiento:"
-  },
-  {
-    "field": "lugarNacimiento",
-    "label": "Lugar de nacimiento:"
   }
 ]

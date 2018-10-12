@@ -1,15 +1,11 @@
 [
   {
     "route": "perfiles",
-    "title": "Candidatos"
+    "title": "Diputados"
   },
   {
-    "route": "comision",
-    "title": "Comision DH"
-  },
-  {
-    "route": "resultados",
-    "title": "Tabla de Gradación"
+    "route": "perfiles",
+    "title": "¿Quién es mi representante?"
   },
   {
     "route": "metodologia",

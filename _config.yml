@@ -1,4 +1,4 @@
 plugins:
   - jekyll-redirect-from
 
-  redirect_from: "/404/"
+  redirect_from: "/error/"

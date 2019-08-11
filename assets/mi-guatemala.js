@@ -5184,7 +5184,7 @@ catch(err) {
 
 ;
           if (!runningTests) {
-            require("mi-guatemala/app")["default"].create({"dataSpreadsheetSourceUrl":"/data-spreadsheet-url","configSpreadsheetSourceUrl":"/config-spreadsheet-url","staticFilesUrl":"http://www.candidatos.gt/static-files/","name":"mi-guatemala","version":"0.4.2+f51d7b05"});
+            require("mi-guatemala/app")["default"].create({"dataSpreadsheetSourceUrl":"/data-spreadsheet-url","configSpreadsheetSourceUrl":"/config-spreadsheet-url","staticFilesUrl":"https://miguatemala.redciudadana.org/static-files/","name":"mi-guatemala","version":"0.4.2+f51d7b05"});
           }
         
 //# sourceMappingURL=mi-guatemala.map
